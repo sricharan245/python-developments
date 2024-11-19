@@ -1,4 +1,4 @@
-# Movie Recommendationm System
+# Movie Recommendation System
 
 In this project, I have created a movie recommendation system by following an Youtube channel (https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 
